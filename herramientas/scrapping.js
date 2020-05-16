@@ -1,3 +1,4 @@
+//npm install puppeteer
 const puppeteer = require('puppeteer');
 
 (async () => {
